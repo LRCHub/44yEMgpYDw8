@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "勇者アリスの大冒険！",
+  "base_artist": "アリス(CV:田中美海)",
+  "createdAt": "2026-02-20T13:40:40.276454Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勇者アリスの大冒険!",
+      "artist": "アリス(CV:田中美海)",
+      "has_synced": false,
+      "path": "select/pl_01_勇者アリスの大冒険!_アリス(CV_田中美海).txt"
+    }
+  ]
+}
