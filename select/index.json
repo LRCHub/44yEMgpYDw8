@@ -2,8 +2,24 @@
   "version": 1,
   "base_track": "勇者アリスの大冒険！",
   "base_artist": "アリス(CV:田中美海)",
-  "createdAt": "2026-03-02T20:03:27.807147Z",
+  "createdAt": "2026-03-27T14:06:58.676518Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "勇者アリスの大冒険！",
+      "artist": "田中美海",
+      "has_synced": false,
+      "path": "select/01_勇者アリスの大冒険!_田中美海.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "勇者アリスの大冒険！",
+      "artist": "アリス(CV:田中美海)",
+      "has_synced": false,
+      "path": "select/02_勇者アリスの大冒険!_アリス(CV_田中美海).txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
